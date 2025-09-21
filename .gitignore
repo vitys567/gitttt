@@ -1,0 +1,19 @@
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.swp
+
+# Каталоги
+node_modules/
+dist/
+build/
+
+# Файлы IDE
+.vscode/
+.idea/
+
+# ОС-мусор
+.DS_Store
+Thumbs.db
